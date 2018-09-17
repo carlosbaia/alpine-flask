@@ -1,4 +1,4 @@
-FROM alpine
+FROM eclipse-mosquitto:1.4.12
 MAINTAINER Christian Gatzlaff <cgatzlaff@gmail.com>
 
 # basic flask environment
